@@ -7,8 +7,10 @@
 ## Observações
 Agradeço primeiramente a oportunidade de estar participando novamente deste desafio. Foi uma imensa gama de experiências adquiridas.
 
-###[LinkedIn](https://www.linkedin.com/in/lucas-souza-478a031ab) 
-###[GitHub](https://github.com/lucasdev3/)
+[LinkedIn](https://www.linkedin.com/in/lucas-souza-478a031ab) 
+
+
+[GitHub](https://github.com/lucasdev3/)
 
 ## Desafios propostos:
 
