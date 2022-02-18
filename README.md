@@ -1,5 +1,15 @@
 # Desafio Capgemini 2022
 
+## Ferramentas utilizadas
+- IDE: Intelij - Jetbrains
+- JVM: JDK 11.0 Oracle
+
+## Observações
+Agradeço primeiramente a oportunidade de estar participando novamente deste desafio. Foi uma imensa gama de experiências adquiridas.
+
+###[LinkedIn](https://www.linkedin.com/in/lucas-souza-478a031ab) 
+###[GitHub](https://github.com/lucasdev3/)
+
 ## Desafios propostos:
 
 ### Desafio 1:
