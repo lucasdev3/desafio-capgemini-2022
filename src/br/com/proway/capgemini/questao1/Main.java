@@ -1,7 +1,7 @@
 /*
-* Escreva um algoritmo que mostre na tela uma escada de tamanho n utilizando o
-* caractere * e espaços. A base e altura da escada devem ser iguais ao valor de n.
-* A última linha não deve conter nenhum espaço.
+ * Escreva um algoritmo que mostre na tela uma escada de tamanho n utilizando o
+ * caractere * e espaços. A base e altura da escada devem ser iguais ao valor de n.
+ * A última linha não deve conter nenhum espaço.
  * */
 
 
@@ -15,8 +15,7 @@ public class Main {
     public static final String NOSING = "+";
     public static final String HOLLOW = " ";
 
-    public static void main(String[] args)
-    {
+    public static void main(String[] args) {
 
         StringBuilder tread = new StringBuilder();
         tread.append((NOSING + TREAD.repeat((STAIR_WIDTH - 2))).repeat(SIZE));
@@ -36,8 +35,7 @@ public class Main {
         System.out.println(tread);
     }
 
-    public static void printSpaces(int count)
-    {
+    public static void printSpaces(int count) {
         for (int i = 0; i < count; ++i)
             System.out.print(" ");
     }
